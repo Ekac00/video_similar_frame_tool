@@ -3,6 +3,17 @@ from tkinter import ttk, messagebox
 import sys
 import os
 
+# 添加必要的导入
+try:
+    from skimage.metrics import structural_similarity as ssim
+except ImportError:
+    pass
+
+try:
+    from skimage.measure import compare_ssim
+except ImportError:
+    pass
+
 # 添加当前目录到Python路径
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
