@@ -31,16 +31,13 @@ python main.py
 <details>
 
 <summary>IMPORTANT</summary>
-> [!IMPORTANT]
-> _能不能跑起来其实我也不知道_<br>
-> _大部分都是AI写的_
+能不能跑起来其实我也不知道 大部分都是AI写的
 
-真的不信你看这个
-这是源码的大小
-<img src="https://github.com/Ekac00/video_similar_frame_tool/blob/main/img/1.png?raw=true">
-这是打包后的大小（
+这个项目真是史山 不信看这个<br>
+这是源码的大小<br>
+<img src="https://github.com/Ekac00/video_similar_frame_tool/blob/main/img/1.png?raw=true"><br>
+这是打包后的大小（<br>
 <img src="https://github.com/Ekac00/video_similar_frame_tool/blob/main/img/2.png?raw=true">
-
 
 </details>
 
