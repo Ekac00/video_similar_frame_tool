@@ -28,9 +28,15 @@ python main.py
 
 4. 在GUI界面中选择视频文件并使用相应功能进行分析。
 
+<details>
+
+<summary>IMPORTANT</summary>
 > [!IMPORTANT]
 > _能不能跑起来其实我也不知道_<br>
 > _大部分都是AI写的_
+<img src=""
+
+</details>
 
 ## 技术栈
 
