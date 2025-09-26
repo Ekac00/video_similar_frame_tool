@@ -34,7 +34,13 @@ python main.py
 > [!IMPORTANT]
 > _能不能跑起来其实我也不知道_<br>
 > _大部分都是AI写的_
-<img src=""
+
+真的不信你看这个
+这是源码的大小
+<img src="https://github.com/Ekac00/video_similar_frame_tool/blob/main/img/1.png?raw=true">
+这是打包后的大小（
+<img src="https://github.com/Ekac00/video_similar_frame_tool/blob/main/img/2.png?raw=true">
+
 
 </details>
 
